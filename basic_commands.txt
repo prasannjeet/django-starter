@@ -1,0 +1,8 @@
+# To use virtual environment
+workon <environment name>
+
+# To create a new module
+python manage.py startapp <app_name>
+
+# Start Server
+python manage.py runserver
